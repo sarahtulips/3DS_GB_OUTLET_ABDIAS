@@ -48,3 +48,22 @@
     text-align: center;
     font-size: 11px;
 }
+
+.linha_prod {
+    flex: 1;
+}
+
+.btn_soma {
+	display: flex;
+	justify-content: center;
+}
+
+.qtd_prod {
+	display: flex;
+	justify-content: center;  
+}
+
+.btn_subtrai {
+	display: flex;
+	justify-content: center;   
+}
